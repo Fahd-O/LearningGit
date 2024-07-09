@@ -1,2 +1,2 @@
 # LearningGit
-This repo is created in the course of learning Git.
+This repo is created in my course of learning Git proper.
